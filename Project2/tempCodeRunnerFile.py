@@ -1,0 +1,1 @@
+    messagex = int((SCREENWIDTH - GAME_SPRITES['message'].get_width())/2)

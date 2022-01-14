@@ -1,0 +1,10 @@
+print("This is \\\\ double backslash")
+print("these are /\\/\\/\\/\\/\\ mountans")
+print("he is\t awesome ")
+print("\\\" \\n \\t \\\'")
+print(r"line A \n line b")
+'''print emoji -- unicode.org'''
+print("\U0001F602")
+print("\U0001F604")
+print("\U0001F618")
+print("\U0001F631")

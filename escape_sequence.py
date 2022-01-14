@@ -1,0 +1,10 @@
+print("hello\"hello\" world")
+print('i \'am govind')
+print("line A\nline B")
+print("name\t govind")
+print("this is backlash\\")
+print("hell\blo")
+print("lineA \\ line b")
+print("lineA \t line b")
+# output : \" \'
+print("\\\"\\\'")
